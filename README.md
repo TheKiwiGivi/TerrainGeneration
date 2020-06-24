@@ -1,6 +1,7 @@
 # TerrainGeneration
 This project has two main functionalities, it renders heightmaps (PNGs) as terrain, and it can generate a random terrain if no hegihtmap it specified. It's written in OpenGL.
 ![Pic of mountain terrain](https://github.com/TheKiwiGivi/TerrainGeneration/blob/master/Pics/generated_mountain.PNG)
+Here is a video showing what can be done: https://www.youtube.com/watch?v=2mlzpxDp3zI
 
 # Installation
 To run this program, please download it from 'https://github.com/TheKiwiGivi/TerrainGeneration'
