@@ -1,13 +1,14 @@
 # TerrainGeneration
-This project has two main functionalities, loading heihgtmaps and generating heightmaps. 
+This project has two main functionalities, it renders heightmaps (PNGs) as terrain, and it can generate a random terrain if no hegihtmap it specified. It's written in OpenGL.
+![Pic of mountain terrain](https://imgur.com/a/LVRGLOS)
 
 # Installation
-To run this program, please download it from 'http://prod3.imt.hig.no/KiwiGivi/terraingeneration'
-Then, run the project 'KeyLabyrinth.sln' (Visual Studios).
+To run this program, please download it from 'https://github.com/TheKiwiGivi/TerrainGeneration'
+Then, run the project 'KeyLabyrinth.sln' (from Visual Studios).
 NB! 'TerrainGeneration.sln' does not work.
 
 # Loading heightmaps
-To load a heightmap, please select a map in the main menu and start. The heightmap will be read by the program and will be drawed to the screen. TO add your own heightmap, please name is 'map_x' where x starts at 0 and corresponds to the amount of maps in your directory minus 1. This means that if you have 3 PNG files for loading, you will have to name the 'map_0', 'map_1' and 'map_2'. Please make sure all files are .PNG and is no more than 100x100 in size.
+To load a heightmap, please select a map in the main menu and start. The heightmap will be read by the program and will be drawed to the screen. To add your own heightmap, please name is 'map_x' where x starts at 0 and corresponds to the amount of maps in your directory minus 1. This means that if you have 3 PNG files for loading, you will have to name the 'map_0', 'map_1' and 'map_2'. Please make sure all files are .PNG and is no more than 100x100 in size.
 
 # Creating heightmaps
 To create a heightmap, please click the 'Generate terrain' button. You can modify the generation by choosing biome and size (limited to 25x25 to 100x100).
