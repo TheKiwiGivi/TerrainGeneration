@@ -1,0 +1,15 @@
+﻿  AStar.cpp
+  Generating Code...
+  Compiling...
+  map.cpp
+c:\users\eili1\source\repos\terraingeneration\keylabyrinth\map.cpp(1017): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\eili1\source\repos\terraingeneration\keylabyrinth\map.cpp(1058): warning C4154: deletion of an array expression; conversion to pointer supplied
+  Generating Code...
+  Skipping... (no relevant changes detected)
+  player.cpp
+  mouse.cpp
+  main.cpp
+  key.cpp
+  input.cpp
+  enemy.cpp
+  KeyLabyrinth.vcxproj -> C:\Users\eili1\source\repos\terraingeneration\x64\Debug\KeyLabyrinth.exe
